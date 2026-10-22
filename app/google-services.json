@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252000323532",
+    "project_id": "cyberauditpro-69bf2",
+    "storage_bucket": "cyberauditpro-69bf2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252000323532:android:4cd4998668d99b77cf7f69",
+        "android_client_info": {
+          "package_name": "com.cyberauditpro.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzL4gplz9pj9gneni1tTaVCHgQ-USlA7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
